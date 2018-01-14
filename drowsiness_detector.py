@@ -1,5 +1,4 @@
 from scipy.spatial import distance as dist
-from imutils.video import FileVideoStream
 from imutils import face_utils
 from threading import Thread
 import imutils
